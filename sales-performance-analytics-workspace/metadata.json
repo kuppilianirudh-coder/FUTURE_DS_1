@@ -1,0 +1,6 @@
+{
+  "name": "Sales Performance Analytics Workspace",
+  "description": "An interactive full-stack business sales performance analytics workspace and dashboard, featuring Jupyter Notebook simulation, Python code executions, and automated AI strategic insights powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
